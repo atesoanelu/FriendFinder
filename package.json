@@ -1,0 +1,23 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Week 13 - Node.js and Express Servers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atesoanelu/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atesoanelu/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/atesoanelu/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
